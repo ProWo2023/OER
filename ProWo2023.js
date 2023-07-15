@@ -1,7 +1,6 @@
-//http://prowo2023.infinityfreeapp.com/ProWoScript.js
 //https://cdn.jsdelivr.net/gh/ProWo2023/OER/ProWo2023.js
 
-//
+// Zora Wasserfall
 function riddle00_01(){
   //document.getElementById('id1').style.color = 'red';
 
@@ -19,7 +18,7 @@ function riddle00_01(){
   
 }
 
-//
+// Standort von Mikau
 function riddle00_02(){
   //document.getElementById('id1').style.color = 'red';
 
@@ -28,16 +27,16 @@ function riddle00_02(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='1234') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
   }
   
 }
 
-//
+// Turm in der Ferne
 function riddle00_03(){
   //document.getElementById('id1').style.color = 'red';
 
@@ -46,11 +45,11 @@ function riddle00_03(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='1234') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig2').style.visibility= 'visible' ;
+    document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch2').style.visibility= 'visible' ;
+    document.getElementById('richtig2').style.visibility= 'hidden' ;
   }
   
 }
