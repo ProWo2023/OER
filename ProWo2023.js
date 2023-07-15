@@ -1,4 +1,6 @@
 //https://cdn.jsdelivr.net/gh/ProWo2023/OER/ProWo2023.js
+//https://cdn.jsdelivr.net/gh/ProWo2023/OER@latest/ProWo2023.js
+//https://cdn.jsdelivr.net/gh/ProWo2023/OER/ProWo2023.js
 
 // Zora Wasserfall
 function riddle00_01(){
