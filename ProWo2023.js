@@ -26,7 +26,7 @@ function riddle00_02(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='1234') {
+  if (wert=='gelb') {
     document.getElementById('richtig1').style.visibility= 'visible' ;
     document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
@@ -40,11 +40,11 @@ function riddle00_02(){
 function riddle00_03(){
   //document.getElementById('id1').style.color = 'red';
 
-  wert1=document.getElementById('enterCode').value ;
-  wert=wert1.trim();
+  wert2=document.getElementById('enterCode2').value ;
+  wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='1234') {
+  if (wert=='Kalsmunt') {
     document.getElementById('richtig2').style.visibility= 'visible' ;
     document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
