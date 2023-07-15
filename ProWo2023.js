@@ -54,7 +54,7 @@ function riddle00_03(){
   
 }
 
-//
+// Alte Funktion EDEKA
 function riddle00_04(){
   //document.getElementById('id1').style.color = 'red';
 
@@ -62,7 +62,7 @@ function riddle00_04(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='1234') {
+  if (wert=='Post') {
     document.getElementById('richtig').style.visibility= 'visible' ;
     document.getElementById('falsch').style.visibility= 'hidden' ;
   } else {
@@ -72,7 +72,7 @@ function riddle00_04(){
   
 }
 
-//
+// Barcode Fischstäbchen
 function riddle00_05(){
   //document.getElementById('id1').style.color = 'red';
 
@@ -80,7 +80,7 @@ function riddle00_05(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='1234') {
+  if (wert=='4250241203524') {
     document.getElementById('richtig').style.visibility= 'visible' ;
     document.getElementById('falsch').style.visibility= 'hidden' ;
   } else {
@@ -90,7 +90,7 @@ function riddle00_05(){
   
 }
 
-//
+// Baum bei Goldfischteich
 function riddle00_06(){
   //document.getElementById('id1').style.color = 'red';
 
@@ -98,7 +98,7 @@ function riddle00_06(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='1234') {
+  if (wert=='Kastanie') {
     document.getElementById('richtig').style.visibility= 'visible' ;
     document.getElementById('falsch').style.visibility= 'hidden' ;
   } else {
@@ -108,7 +108,7 @@ function riddle00_06(){
   
 }
 
-//
+// Gesamtmenge Fische
 function riddle00_07(){
   //document.getElementById('id1').style.color = 'red';
 
@@ -116,7 +116,7 @@ function riddle00_07(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='1234') {
+  if (wert=='2250') {
     document.getElementById('richtig').style.visibility= 'visible' ;
     document.getElementById('falsch').style.visibility= 'hidden' ;
   } else {
@@ -126,7 +126,7 @@ function riddle00_07(){
   
 }
 
-//
+//Preis Zander
 function riddle00_08(){
   //document.getElementById('id1').style.color = 'red';
 
@@ -134,7 +134,7 @@ function riddle00_08(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='1234') {
+  if (wert=='18,50') {
     document.getElementById('richtig').style.visibility= 'visible' ;
     document.getElementById('falsch').style.visibility= 'hidden' ;
   } else {
