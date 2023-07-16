@@ -141,7 +141,7 @@ function riddle00_08(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='18,50' || wert=='18.50' ) {
+  if (wert=='18,50' || wert=='3849' ) {
     document.getElementById('richtig').style.visibility= 'visible' ;
     document.getElementById('falsch').style.visibility= 'hidden' ;
   } else {
