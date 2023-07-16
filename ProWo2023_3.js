@@ -632,7 +632,7 @@ function riddle00_46(){
   wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='Choros') {
+  if (wert=='Choros' || wert=='CHOROS'  || wert=='choros') {
     document.getElementById('richtig2').style.visibility= 'visible' ;
     document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
