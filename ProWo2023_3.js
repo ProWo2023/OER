@@ -69,7 +69,7 @@ function riddle00_04(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='Post') {
+  if (wert=='Post' || wert=='Posthalterei') {
     document.getElementById('richtig1').style.visibility= 'visible' ;
     document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
