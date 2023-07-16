@@ -271,7 +271,7 @@ function riddle00_16(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='Apotheke') {
+  if (wert=='Apotheke' || wert=='APOTHEKE' ) {
     document.getElementById('richtig').style.visibility= 'visible' ;
     document.getElementById('falsch').style.visibility= 'hidden' ;
   } else {
