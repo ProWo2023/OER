@@ -105,7 +105,7 @@ function riddle00_06(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='Kastanie') {
+  if (wert=='Kastanie' || wert=='Rosskastanie' || wert=='Gelbe Rosskastanie'  || wert=='Gelbe Pavie'  || wert=='Appalachen-Rosskastanie') {
     document.getElementById('richtig').style.visibility= 'visible' ;
     document.getElementById('falsch').style.visibility= 'hidden' ;
   } else {
@@ -133,7 +133,7 @@ function riddle00_07(){
   
 }
 
-//Preis Zander
+//Gesamtmenge Fisch plus Jahreszahl Fischmarkt
 function riddle00_08(){
   //document.getElementById('id1').style.color = 'red';
 
@@ -141,7 +141,7 @@ function riddle00_08(){
   wert=wert1.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
-  if (wert=='18,50' || wert=='3849' ) {
+  if (wert=='3849' ) {
     document.getElementById('richtig').style.visibility= 'visible' ;
     document.getElementById('falsch').style.visibility= 'hidden' ;
   } else {
