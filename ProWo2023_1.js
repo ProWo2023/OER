@@ -70,11 +70,11 @@ function riddle00_04(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Post') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
   }
   
 }
@@ -83,16 +83,16 @@ function riddle00_04(){
 function riddle00_05(){
   //document.getElementById('id1').style.color = 'red';
 
-  wert1=document.getElementById('enterCode').value ;
-  wert=wert1.trim();
+  wert2=document.getElementById('enterCode2').value ;
+  wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='4250241203524') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig2').style.visibility= 'visible' ;
+    document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch2').style.visibility= 'visible' ;
+    document.getElementById('richtig2').style.visibility= 'hidden' ;
   }
   
 }
@@ -200,11 +200,11 @@ function riddle00_12(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Österreich') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
   }
   
 }
@@ -213,16 +213,16 @@ function riddle00_12(){
 function riddle00_13(){
   //document.getElementById('id1').style.color = 'red';
 
-  wert1=document.getElementById('enterCode').value ;
-  wert=wert1.trim();
+  wert2=document.getElementById('enterCode2').value ;
+  wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Eisvogel') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig2').style.visibility= 'visible' ;
+    document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch2').style.visibility= 'visible' ;
+    document.getElementById('richtig2').style.visibility= 'hidden' ;
   }
   
 }
@@ -236,11 +236,11 @@ function riddle00_14(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Kopf' || wert=='Köpfe') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
   }
   
 }
@@ -249,16 +249,16 @@ function riddle00_14(){
 function riddle00_15(){
   //document.getElementById('id1').style.color = 'red';
 
-  wert1=document.getElementById('enterCode').value ;
-  wert=wert1.trim();
+  wert2=document.getElementById('enterCode2').value ;
+  wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Goethe') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig2').style.visibility= 'visible' ;
+    document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch2').style.visibility= 'visible' ;
+    document.getElementById('richtig2').style.visibility= 'hidden' ;
   }
   
 }
@@ -332,11 +332,11 @@ function riddle00_22(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Bühne') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
   }
   
 }
@@ -345,16 +345,16 @@ function riddle00_22(){
 function riddle00_23(){
   //document.getElementById('id1').style.color = 'red';
 
-  wert1=document.getElementById('enterCode').value ;
-  wert=wert1.trim();
+  wert2=document.getElementById('enterCode2').value ;
+  wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Onyx') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig2').style.visibility= 'visible' ;
+    document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch2').style.visibility= 'visible' ;
+    document.getElementById('richtig2').style.visibility= 'hidden' ;
   }
   
 }
@@ -368,11 +368,11 @@ function riddle00_24(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='1500') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
   }
   
 }
@@ -381,16 +381,16 @@ function riddle00_24(){
 function riddle00_25(){
   //document.getElementById('id1').style.color = 'red';
 
-  wert1=document.getElementById('enterCode').value ;
-  wert=wert1.trim();
+  wert2=document.getElementById('enterCode2').value ;
+  wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Augenamputation') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig2').style.visibility= 'visible' ;
+    document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch2').style.visibility= 'visible' ;
+    document.getElementById('richtig2').style.visibility= 'hidden' ;
   }
   
 }
@@ -481,11 +481,11 @@ function riddle00_34(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Kornmarkt') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
   }
   
 }
@@ -494,16 +494,16 @@ function riddle00_34(){
 function riddle00_35(){
   //document.getElementById('id1').style.color = 'red';
 
-  wert1=document.getElementById('enterCode').value ;
-  wert=wert1.trim();
+  wert2=document.getElementById('enterCode2').value ;
+  wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Zigarre' || wert=='Zigarillo' || wert=='Zigarette' ) {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig2').style.visibility= 'visible' ;
+    document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch2').style.visibility= 'visible' ;
+    document.getElementById('richtig2').style.visibility= 'hidden' ;
   }
   
 }
@@ -579,11 +579,11 @@ function riddle00_43(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='EDEKA' || wert=='Edeka' ) {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
   }
   
 }
@@ -592,16 +592,16 @@ function riddle00_43(){
 function riddle00_44(){
   //document.getElementById('id1').style.color = 'red';
 
-  wert1=document.getElementById('enterCode').value ;
-  wert=wert1.trim();
+  wert2=document.getElementById('enterCode2').value ;
+  wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='4311596652648') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig2').style.visibility= 'visible' ;
+    document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch2').style.visibility= 'visible' ;
+    document.getElementById('richtig2').style.visibility= 'hidden' ;
   }
   
 }
@@ -615,11 +615,11 @@ function riddle00_45(){
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Lottehaus') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
   }
   
 }
@@ -628,16 +628,16 @@ function riddle00_45(){
 function riddle00_46(){
   //document.getElementById('id1').style.color = 'red';
 
-  wert1=document.getElementById('enterCode').value ;
-  wert=wert1.trim();
+  wert2=document.getElementById('enterCode2').value ;
+  wert=wert2.trim();
   //document.getElementById('ausgabe').innerHTML = wert ;
   
   if (wert=='Choros') {
-    document.getElementById('richtig').style.visibility= 'visible' ;
-    document.getElementById('falsch').style.visibility= 'hidden' ;
+    document.getElementById('richtig2').style.visibility= 'visible' ;
+    document.getElementById('falsch2').style.visibility= 'hidden' ;
   } else {
-    document.getElementById('falsch').style.visibility= 'visible' ;
-    document.getElementById('richtig').style.visibility= 'hidden' ;
+    document.getElementById('falsch2').style.visibility= 'visible' ;
+    document.getElementById('richtig2').style.visibility= 'hidden' ;
   }
   
 }
