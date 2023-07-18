@@ -641,3 +641,24 @@ function riddle00_46(){
   }
   
 }
+
+
+// -----------------------------------------------------------------------------------
+// Zitadelle der Zeit
+// -----------------------------------------------------------------------------------
+
+
+// Kammer der Zeit
+function riddle00_51){
+  wert1=document.getElementById('enterCode2').value ;
+  wert=wert1.trim();
+  
+  if (wert=='2863') {
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
+  } else {
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
+  }
+  
+}
