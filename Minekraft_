@@ -1,0 +1,73 @@
+// 
+function riddle03_01(){
+  wert1=document.getElementById('enterCode').value ;
+  wert=wert1.trim();
+    
+  if (wert=='' || wert=='') {
+    document.getElementById('richtig').style.visibility= 'visible' ;
+    document.getElementById('falsch').style.visibility= 'hidden' ;
+  } else {
+    document.getElementById('falsch').style.visibility= 'visible' ;
+    document.getElementById('richtig').style.visibility= 'hidden' ;
+  }
+  
+}
+
+// function riddle03_02(){
+  wert1=document.getElementById('enterCode').value ;
+  wert=wert1.trim();
+  
+  if (wert=='') {
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
+  } else {
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
+  }
+  
+}
+
+// 
+function riddle03_03(){
+  wert1=document.getElementById('enterCode').value ;
+  wert=wert1.trim();
+  
+  if (wert=='nackt') {
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
+  } else {
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
+  }
+  
+}
+
+// 
+function riddle03_04(){
+  wert1=document.getElementById('enterCode').value ;
+  wert=wert1.trim();
+  
+  if (wert=='orange' || wert=='rot') {
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
+  } else {
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
+  }
+  
+}
+
+// 
+function riddle03_05(){
+  wert1=document.getElementById('enterCode').value ;
+  wert=wert1.trim();
+  
+  if (wert=='Herr Knecht' || wert=='Knecht') {
+    document.getElementById('richtig1').style.visibility= 'visible' ;
+    document.getElementById('falsch1').style.visibility= 'hidden' ;
+  } else {
+    document.getElementById('falsch1').style.visibility= 'visible' ;
+    document.getElementById('richtig1').style.visibility= 'hidden' ;
+  }
+  
+}
