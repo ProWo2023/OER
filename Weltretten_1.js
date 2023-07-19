@@ -13,7 +13,8 @@ function riddle01_01(){
   
 }
 
-// function riddle01_02(){
+// 
+function riddle01_02(){
   wert1=document.getElementById('enterCode').value ;
   wert=wert1.trim();
   
