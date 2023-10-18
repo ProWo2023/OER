@@ -1,5 +1,5 @@
 
 
  function jimdoJStest(){
-        location.assign('http://www.tagesschau.de');
+        location.assign('https://www.faz.net');
   }
